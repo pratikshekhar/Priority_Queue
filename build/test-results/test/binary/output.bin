@@ -1,0 +1,246 @@
+ Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+m Key: 14  Value: 8    Key: 13  Value: 10    Key: 12  Value: 14    Key: 11  Value: 16    Key: 15  Value: 7   
+‚ Key: 15  Value: 7    Key: 14  Value: 8    Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10    Key: 16  Value: 9   
+— Key: 16  Value: 9    Key: 14  Value: 8    Key: 15  Value: 7    Key: 11  Value: 16    Key: 13  Value: 10    Key: 12  Value: 14    Key: 17  Value: 3   
+¬ Key: 17  Value: 3    Key: 14  Value: 8    Key: 16  Value: 9    Key: 11  Value: 16    Key: 13  Value: 10    Key: 12  Value: 14    Key: 15  Value: 7    Key: 18  Value: 2   
+Á Key: 18  Value: 2    Key: 17  Value: 3    Key: 16  Value: 9    Key: 14  Value: 8    Key: 13  Value: 10    Key: 12  Value: 14    Key: 15  Value: 7    Key: 11  Value: 16    Key: 19  Value: 4   
+Ö Key: 19  Value: 4    Key: 18  Value: 2    Key: 16  Value: 9    Key: 17  Value: 3    Key: 13  Value: 10    Key: 12  Value: 14    Key: 15  Value: 7    Key: 11  Value: 16    Key: 14  Value: 8    Key: 20  Value: 1   
+
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+19 4 
+18 2 
+16 9 
+17 3 
+13 10 
+12 14 
+15 7 
+11 16 
+14 8 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+18 2 
+17 3 
+16 9 
+14 8 
+13 10 
+12 14 
+15 7 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+17 3 
+14 8 
+16 9 
+11 16 
+13 10 
+12 14 
+15 7 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+16 9 
+14 8 
+15 7 
+11 16 
+13 10 
+12 14 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+15 7 
+14 8 
+12 14 
+11 16 
+13 10 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+14 8 
+13 10 
+12 14 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+13 10 
+11 16 
+12 14 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+12 14 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+11 16  Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+ Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+ Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+13 10 
+11 16 
+12 14  Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+ Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+13 10 
+11 16 
+12 14 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+13 10 
+11 16 
+12 14 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+12 14 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+12 14 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+11 16  Key: 11  Value: 16   
+- Key: 11  Value: 16    Key: 12  Value: 14   
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+m Key: 14  Value: 8    Key: 13  Value: 10    Key: 12  Value: 14    Key: 11  Value: 16    Key: 15  Value: 7   
+‚ Key: 15  Value: 7    Key: 14  Value: 8    Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10    Key: 16  Value: 9   
+
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+15 7 
+14 8 
+12 14 
+11 16 
+13 10 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+14 8 
+13 10 
+12 14 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+13 10 
+11 16 
+12 14 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+12 14 
+11 16 
+7The new array after removing the highest priority key:
+
+
+Key-Value
+
+
+ Key: 11  Value: 16   
+
+- Key: 11  Value: 16    Key: 12  Value: 14   
+
+C Key: 12  Value: 14    Key: 11  Value: 16    Key: 13  Value: 10   
+
+X Key: 13  Value: 10    Key: 11  Value: 16    Key: 12  Value: 14    Key: 14  Value: 8   
+
+
+
+7The new array after removing the highest priority key:
+
+
+
+
+Key-Value
+
+
+
+13 10 
+
+11 16 
+
+12 14 
+
+7The new array after removing the highest priority key:
+
+
+
+
+Key-Value
+
+
+
+12 14 
+
+11 16 
